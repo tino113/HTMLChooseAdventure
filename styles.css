@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(34, 34, 34);
+    color: white;
+    font-family:'Franklin Gothic Medium';
+}
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+}
+.subheading{
+    color: grey;
+    font-family: 'Trebuchet MS';
+}
+a {
+    color: red;
+    
+}
+a:hover {
+    color: black;
+    background-color: yellow;
+    font-size:larger;
+    /*padding is the space around objects/words*/
+    padding-left:3px;
+    padding-right:3px;
+}
+img {
+    text-align: center;
+}
+p {
+    font-family: Cambria;
+    width: 60%;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    text-justify: auto;
+}
